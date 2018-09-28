@@ -1,0 +1,5 @@
+E:\c#Program\ItemPrizeAPp\ItemPrizeAPp\bin\ItemPrizeAPp.dll
+E:\c#Program\ItemPrizeAPp\ItemPrizeAPp\bin\ItemPrizeAPp.pdb
+E:\c#Program\ItemPrizeAPp\ItemPrizeAPp\obj\Debug\ItemPrizeAPp.csprojResolveAssemblyReference.cache
+E:\c#Program\ItemPrizeAPp\ItemPrizeAPp\obj\Debug\ItemPrizeAPp.dll
+E:\c#Program\ItemPrizeAPp\ItemPrizeAPp\obj\Debug\ItemPrizeAPp.pdb

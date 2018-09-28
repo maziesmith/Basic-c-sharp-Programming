@@ -1,0 +1,6 @@
+E:\c#Program\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe.config
+E:\c#Program\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe
+E:\c#Program\ArrayApp\ArrayApp\bin\Debug\ArrayApp.pdb
+E:\c#Program\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csprojResolveAssemblyReference.cache
+E:\c#Program\ArrayApp\ArrayApp\obj\Debug\ArrayApp.exe
+E:\c#Program\ArrayApp\ArrayApp\obj\Debug\ArrayApp.pdb

@@ -1,0 +1,5 @@
+E:\c#Program\InheritenceApp\InheritenceApp\bin\InheritenceApp.dll
+E:\c#Program\InheritenceApp\InheritenceApp\bin\InheritenceApp.pdb
+E:\c#Program\InheritenceApp\InheritenceApp\obj\Debug\InheritenceApp.csprojResolveAssemblyReference.cache
+E:\c#Program\InheritenceApp\InheritenceApp\obj\Debug\InheritenceApp.dll
+E:\c#Program\InheritenceApp\InheritenceApp\obj\Debug\InheritenceApp.pdb

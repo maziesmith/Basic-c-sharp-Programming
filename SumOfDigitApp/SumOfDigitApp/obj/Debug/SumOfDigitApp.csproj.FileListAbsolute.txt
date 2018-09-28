@@ -1,0 +1,6 @@
+E:\c#Program\SumOfDigitApp\SumOfDigitApp\bin\Debug\SumOfDigitApp.exe.config
+E:\c#Program\SumOfDigitApp\SumOfDigitApp\bin\Debug\SumOfDigitApp.exe
+E:\c#Program\SumOfDigitApp\SumOfDigitApp\bin\Debug\SumOfDigitApp.pdb
+E:\c#Program\SumOfDigitApp\SumOfDigitApp\obj\Debug\SumOfDigitApp.csprojResolveAssemblyReference.cache
+E:\c#Program\SumOfDigitApp\SumOfDigitApp\obj\Debug\SumOfDigitApp.exe
+E:\c#Program\SumOfDigitApp\SumOfDigitApp\obj\Debug\SumOfDigitApp.pdb

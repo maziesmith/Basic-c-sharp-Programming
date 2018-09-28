@@ -1,0 +1,6 @@
+E:\c#Program\SumOfDigitApp\ReverseApp\bin\Debug\ReverseApp.exe.config
+E:\c#Program\SumOfDigitApp\ReverseApp\bin\Debug\ReverseApp.exe
+E:\c#Program\SumOfDigitApp\ReverseApp\bin\Debug\ReverseApp.pdb
+E:\c#Program\SumOfDigitApp\ReverseApp\obj\Debug\ReverseApp.csprojResolveAssemblyReference.cache
+E:\c#Program\SumOfDigitApp\ReverseApp\obj\Debug\ReverseApp.exe
+E:\c#Program\SumOfDigitApp\ReverseApp\obj\Debug\ReverseApp.pdb

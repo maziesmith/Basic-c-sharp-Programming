@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    if (Session["userId"] == null)
+    {
+        Response.Redirect("~/Login/Index");
+    }
+}
+<html>
+<head>
+</head>
+<body>
+Dashboard
+<h3>
+    UserName:@Session["userName"].ToString()
+</h3>
+    <a href="@Url.Action("LogOut","Login")">LogOut</a>
+</body>
+</html>

@@ -1,0 +1,8 @@
+E:\c#Program\HtmlPageApp\HtmlPageApp\bin\HtmlPageApp.dll
+E:\c#Program\HtmlPageApp\HtmlPageApp\bin\HtmlPageApp.pdb
+E:\c#Program\HtmlPageApp\HtmlPageApp\bin\HtmlPageApp.xml
+E:\c#Program\HtmlPageApp\HtmlPageApp\obj\Debug\HtmlPageApp.Resources.resources
+E:\c#Program\HtmlPageApp\HtmlPageApp\obj\Debug\HtmlPageApp.vbproj.GenerateResource.Cache
+E:\c#Program\HtmlPageApp\HtmlPageApp\obj\Debug\HtmlPageApp.dll
+E:\c#Program\HtmlPageApp\HtmlPageApp\obj\Debug\HtmlPageApp.xml
+E:\c#Program\HtmlPageApp\HtmlPageApp\obj\Debug\HtmlPageApp.pdb

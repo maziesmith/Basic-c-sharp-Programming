@@ -1,0 +1,5 @@
+E:\c#Program\SessionApp\SessionApp\bin\SessionApp.dll
+E:\c#Program\SessionApp\SessionApp\bin\SessionApp.pdb
+E:\c#Program\SessionApp\SessionApp\obj\Debug\SessionApp.csprojResolveAssemblyReference.cache
+E:\c#Program\SessionApp\SessionApp\obj\Debug\SessionApp.dll
+E:\c#Program\SessionApp\SessionApp\obj\Debug\SessionApp.pdb

@@ -1,0 +1,5 @@
+E:\c#Program\NumberRangeApp\NumberRangeApp\bin\NumberRangeApp.dll
+E:\c#Program\NumberRangeApp\NumberRangeApp\bin\NumberRangeApp.pdb
+E:\c#Program\NumberRangeApp\NumberRangeApp\obj\Debug\NumberRangeApp.csprojResolveAssemblyReference.cache
+E:\c#Program\NumberRangeApp\NumberRangeApp\obj\Debug\NumberRangeApp.dll
+E:\c#Program\NumberRangeApp\NumberRangeApp\obj\Debug\NumberRangeApp.pdb

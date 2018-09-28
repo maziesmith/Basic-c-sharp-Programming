@@ -1,0 +1,9 @@
+E:\c#Program\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+E:\c#Program\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+E:\c#Program\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+E:\c#Program\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csprojResolveAssemblyReference.cache
+E:\c#Program\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Form1.resources
+E:\c#Program\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+E:\c#Program\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.Cache
+E:\c#Program\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+E:\c#Program\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.pdb

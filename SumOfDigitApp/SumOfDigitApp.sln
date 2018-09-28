@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigitApp", "SumOfDigitApp\SumOfDigitApp.csproj", "{F470EC72-9E3D-4F62-892B-F41F4630A926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseApp", "ReverseApp\ReverseApp.csproj", "{4243D63D-ACB8-435E-8BA7-218BD06108BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F470EC72-9E3D-4F62-892B-F41F4630A926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F470EC72-9E3D-4F62-892B-F41F4630A926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F470EC72-9E3D-4F62-892B-F41F4630A926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F470EC72-9E3D-4F62-892B-F41F4630A926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4243D63D-ACB8-435E-8BA7-218BD06108BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4243D63D-ACB8-435E-8BA7-218BD06108BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4243D63D-ACB8-435E-8BA7-218BD06108BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4243D63D-ACB8-435E-8BA7-218BD06108BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

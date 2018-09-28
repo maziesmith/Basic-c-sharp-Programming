@@ -1,0 +1,5 @@
+E:\c#Program\HelloWorlWeb\HelloWorlWeb\bin\HelloWorlWeb.dll
+E:\c#Program\HelloWorlWeb\HelloWorlWeb\bin\HelloWorlWeb.pdb
+E:\c#Program\HelloWorlWeb\HelloWorlWeb\obj\Debug\HelloWorlWeb.csprojResolveAssemblyReference.cache
+E:\c#Program\HelloWorlWeb\HelloWorlWeb\obj\Debug\HelloWorlWeb.dll
+E:\c#Program\HelloWorlWeb\HelloWorlWeb\obj\Debug\HelloWorlWeb.pdb

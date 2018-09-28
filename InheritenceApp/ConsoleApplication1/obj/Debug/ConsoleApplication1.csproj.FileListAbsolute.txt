@@ -1,0 +1,6 @@
+E:\c#Program\InheritenceApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\c#Program\InheritenceApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\c#Program\InheritenceApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\c#Program\InheritenceApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\c#Program\InheritenceApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\c#Program\InheritenceApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

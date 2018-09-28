@@ -1,0 +1,5 @@
+E:\c#Program\AssociationApp\AssociationApp\bin\AssociationApp.dll
+E:\c#Program\AssociationApp\AssociationApp\bin\AssociationApp.pdb
+E:\c#Program\AssociationApp\AssociationApp\obj\Debug\AssociationApp.dll
+E:\c#Program\AssociationApp\AssociationApp\obj\Debug\AssociationApp.pdb
+E:\c#Program\AssociationApp\AssociationApp\obj\Debug\AssociationApp.csprojResolveAssemblyReference.cache

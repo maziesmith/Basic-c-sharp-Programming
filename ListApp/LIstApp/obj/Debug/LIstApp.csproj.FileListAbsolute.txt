@@ -1,0 +1,6 @@
+E:\c#Program\LIstApp\LIstApp\bin\Debug\LIstApp.exe.config
+E:\c#Program\LIstApp\LIstApp\bin\Debug\LIstApp.exe
+E:\c#Program\LIstApp\LIstApp\bin\Debug\LIstApp.pdb
+E:\c#Program\LIstApp\LIstApp\obj\Debug\LIstApp.csprojResolveAssemblyReference.cache
+E:\c#Program\LIstApp\LIstApp\obj\Debug\LIstApp.exe
+E:\c#Program\LIstApp\LIstApp\obj\Debug\LIstApp.pdb

@@ -1,0 +1,62 @@
+﻿body {
+}
+.wrapper {
+    width: 1300px;
+    margin: 0 auto;
+
+}
+header {
+
+    width: 1300px;
+    margin: 0  auto;
+    height: 50px;
+    float: left;
+
+
+}
+.logo {
+    width: 500px;
+    height: 50px;
+
+    background: darkviolet;
+  
+    float: left;
+
+}
+.banner {
+    width: 800px;
+    height: 50px;
+    background:blue;
+    float: right;
+
+}
+nav {
+    align-content: center;
+    display: inline;
+    margin: 0 auto;
+    
+   
+}
+nav ul li {
+    
+   
+    display: inline;
+}
+nav ul li a {
+    background: darkgray;
+    display: inline-block;
+    font-size: 40px;
+    
+    color: black;
+    float: left;
+    padding: 5px;
+
+
+
+}
+nav ul li a:hover {
+
+    background: antiquewhite;
+    color: chocolate;
+
+}

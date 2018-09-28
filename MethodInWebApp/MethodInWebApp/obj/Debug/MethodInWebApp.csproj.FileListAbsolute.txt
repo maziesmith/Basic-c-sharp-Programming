@@ -1,0 +1,5 @@
+E:\c#Program\MethodInWebApp\MethodInWebApp\bin\MethodInWebApp.dll
+E:\c#Program\MethodInWebApp\MethodInWebApp\bin\MethodInWebApp.pdb
+E:\c#Program\MethodInWebApp\MethodInWebApp\obj\Debug\MethodInWebApp.csprojResolveAssemblyReference.cache
+E:\c#Program\MethodInWebApp\MethodInWebApp\obj\Debug\MethodInWebApp.dll
+E:\c#Program\MethodInWebApp\MethodInWebApp\obj\Debug\MethodInWebApp.pdb
